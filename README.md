@@ -1,4 +1,4 @@
-Javascript Calculator
+## Javascript Calculator
 
 The first version of this script was very simple and added up two numbers a user typed in. 
 After wanting to further practice my Javascript and CSS knowledge the App was redone with traditional calculator button inputs and all the logic of a standard calculator.
